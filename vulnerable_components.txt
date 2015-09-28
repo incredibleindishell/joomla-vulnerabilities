@@ -1,3 +1,6 @@
+com_googlesearch_cse
+com_j2store
+com_informations
 com_gallery_wd
 com_rand
 com_simpleimageupload
